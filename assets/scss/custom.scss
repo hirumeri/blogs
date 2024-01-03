@@ -1,3 +1,14 @@
 /*
     You can add your own custom styles here.
 */
+
+/**
+*   Global font family
+*/
+:root {
+    --sys-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue";
+    --zh-font-family: "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei";
+
+    --base-font-family: 'Zen Old Mincho', var(--sys-font-family), serif;
+    --code-font-family: Menlo, Monaco, Consolas, "Courier New", var(--zh-font-family), monospace;
+}
