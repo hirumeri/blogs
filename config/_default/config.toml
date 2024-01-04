@@ -2,7 +2,7 @@
 baseurl = "https://blog.hirumeri.dev"
 languageCode = "jp-ja"
 paginate = 5
-title = "irumerih.dev"
+title = "Ipse, dixit"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
