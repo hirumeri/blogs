@@ -8,6 +8,8 @@ math:
 license: 
 hidden: false
 comments: true
+categories: 
+  - Books 
 ---
 
 # 概要

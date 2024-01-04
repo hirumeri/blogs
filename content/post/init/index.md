@@ -8,7 +8,8 @@ math:
 license: 
 hidden: false
 comments: true
-draft: true
+categories: 
+  - diary
 ---
 
 ブログのお引越し.  Github Pages でホストされているけれど, 技術っぽいこともそうでないことも全部ひっくるめて書くと思う. 
