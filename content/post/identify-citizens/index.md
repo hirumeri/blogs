@@ -1,0 +1,11 @@
+---
+title: "膨張する監視社会"
+date: 2022-10-22T21:50:25+09:00
+description: 'デイヴィッド・ライアン『膨張する監視社会』（青土社, 2010）'
+image: 
+math: 
+license: 
+hidden: false
+comments: true
+draft: true
+---
