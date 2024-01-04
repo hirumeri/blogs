@@ -10,6 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
+weight = 10
 url = "https://github.com/hirumeri"
 
 [social.params]
@@ -19,6 +20,7 @@ icon = "brand-github"
 identifier = "x"
 name = "x"
 url = "https://twitter.com/hirumeri"
+weight = 80
 
 [social.params]
 icon = "brand-x"
@@ -27,6 +29,16 @@ icon = "brand-x"
 identifier = "fediverse"
 name = "fedibird"
 url = ""
+weight = 20
 
 [social.params]
 icon = "brand-mastodon"
+
+[[social]]
+identifier = "rss"
+name = "rss"
+url = "/post/index.xml"
+weight = 100
+
+[social.params]
+icon = "rss"
