@@ -28,7 +28,7 @@ icon = "brand-x"
 [[social]]
 identifier = "fediverse"
 name = "fedibird"
-url = ""
+url = "https://fedibird.com/web/accounts/109594314481967133/about#"
 weight = 20
 
 [social.params]
