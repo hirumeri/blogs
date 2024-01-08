@@ -55,13 +55,13 @@ limit = 10
 type = "toc"
 
 [opengraph.twitter]
-site = ""
-card = "summary_large_image"
+site = "hirumeri"
+card = "summary"
 
 [defaultImage.opengraph]
-enabled = false
-local = false
-src = ""
+enabled = true
+local = true
+src = "img/ogp.svg"
 
 [colorScheme]
 toggle = true
