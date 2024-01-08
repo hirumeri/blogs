@@ -61,7 +61,7 @@ card = "summary"
 [defaultImage.opengraph]
 enabled = true
 local = true
-src = "img/ogp.svg"
+src = "/ogp.svg"
 
 [colorScheme]
 toggle = true
