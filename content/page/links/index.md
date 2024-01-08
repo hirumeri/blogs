@@ -16,4 +16,5 @@ menu:
             icon: link
 
 comments: false
+draft: true # linksのページはいらないのでとりあえず非表示にしておく
 ---
