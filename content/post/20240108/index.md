@@ -1,6 +1,6 @@
 ---
 title: "20240108"
-description: 
+description: 日記 2024/1/8
 date: 2024-01-08T15:23:24+09:00
 image: 
 math: 
